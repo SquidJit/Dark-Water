@@ -690,3 +690,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.27-08.43.02:376][  0]LogAssetRegistry: Asset discovery search completed in 4.7821 seconds
 [2023.10.27-08.43.02:378][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2023.10.27-08.43.02:379][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.10.27-08.44.06:635][662]LogSlate: Took 0.000729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.27-08.44.10:657][674]LogDirectoryWatcher: Display: A directory notification failed for 'G:/Unreal Engine Projects/Dark-Water/DarkWater/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-08.44.10:657][674]LogDirectoryWatcher: Display: A directory notification failed for 'G:/Unreal Engine Projects/Dark-Water/DarkWater/Content/Developers/Squidjit/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-08.44.10:657][674]LogDirectoryWatcher: Display: A directory notification failed for 'G:/Unreal Engine Projects/Dark-Water/DarkWater/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.10.27-08.44.21:903][137]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.27-08.44.26:203][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.10.27-08.44.56:788][142]LogDerivedDataCache: C:/Users/Squidjit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.094 and deleted 0 file(s) with total size 0 MiB.
